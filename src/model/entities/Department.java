@@ -1,6 +1,8 @@
 package model.entities;
 
 import java.io.Serializable;
+import java.util.List;
+import java.util.ArrayList;
 import java.util.Objects;
 
 public class Department implements Serializable {
